@@ -1,0 +1,6 @@
+framework module Pods_PruebaNach {
+  umbrella header "Pods-PruebaNach-umbrella.h"
+
+  export *
+  module * { export * }
+}
